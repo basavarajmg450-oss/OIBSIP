@@ -1,0 +1,22 @@
+Project Name: CrustCraft
+
+Category: Full Stack Web Development
+
+Description:
+CrustCraft is a full-stack pizza delivery platform that allows
+customers to browse pizzas, customize their own pizzas, place
+orders, make test payments, and track orders in real time.
+
+Technology Stack:
+Frontend: React, Vite, CSS
+Backend: Node.js, Express.js
+Database: MongoDB
+Authentication: JWT
+Payments: Razorpay Test Mode
+Real-time: Socket.IO
+
+GitHub:
+https://github.com/basavarajmg450-oss/OIBSIP
+
+Developer:
+Basavaraj M G
